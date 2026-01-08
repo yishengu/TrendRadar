@@ -26,8 +26,8 @@ app:
 platforms:
   - id: "douyin"
     name: "抖音"
-  - id: "kuaishou"
-    name: "快手"
+  #- id: "kuaishou"
+  #  name: "快手"
   - id: "weibo"
     name: "微博"
   - id: "toutiao"
